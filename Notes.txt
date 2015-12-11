@@ -1,0 +1,13 @@
+ES6
+
+Use standards and guidelines as references for katas.
+
+Use interview questions for katas.
+
+
+
+
+
+
+
+
