@@ -8,6 +8,7 @@ Dealing with Nulls!
 
 Resources
 https://hacks.mozilla.org/category/es6-in-depth/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 
 
