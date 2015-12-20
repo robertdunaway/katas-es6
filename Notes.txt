@@ -6,7 +6,8 @@ Use interview questions for katas.
 
 Dealing with Nulls!
 
-
+Resources
+https://hacks.mozilla.org/category/es6-in-depth/
 
 
 
